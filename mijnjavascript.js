@@ -1,7 +1,4 @@
-var mijnauto = {
-    merk:"Ford",
-    type: "Mondeo",
-    aantalwielen: "4",
-    Kleur: "blauw",
-}
-console.log(mijnauto.Kleur)
+document.getElementById("paginatitel").innerText = "Mijn geweldige pagina";
+document.getElementById("subkop").innerText = "Mijn geweldige kop";
+document.getElementById("2") .src = "2.png";
+document.getElementById("appel") .src = "appel.jpg";
